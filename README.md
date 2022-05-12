@@ -50,7 +50,7 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
 ### Swaroop2sky on Socials
 Instagram [@swaroop2sky](https://www.instagram.com/swaroop2sky/)
 
-Telegram Channel [@swaroop2skyS2S](https://t.me/swaroop2skyS2S)
+Telegram Channel [@swaroop2sky](https://t.me/swaroop2sky)
 
 Youtube [@swaroop2sky](https://www.youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
 
