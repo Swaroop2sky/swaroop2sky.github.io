@@ -1,4 +1,9 @@
 ## Welcome to Swaroop2sky 
+
+![GitHub contributors](https://img.shields.io/github/contributors/Swaroop2sky/swaroop2sky.github.io?style=flat&color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Swaroop2sky/swaroop2sky.github.io?color=green)
+![GitHub](https://img.shields.io/github/license/Swaroop2sky/swaroop2sky.github.io?color=green)
+
 ![Image](https://camo.githubusercontent.com/d8154c78b3a347615e997033b1c4a56ccabe6e611c814f5b152d8caee8065254/68747470733a2f2f7974332e67677068742e636f6d2f7974632f41415576776e6972466f6c683045646473466c6c764b65775a637267784d445530556976424773456c4471483d733930302d632d6b2d63307830306666666666662d6e6f2d726a)
 
 The Official YouTube Channel which makes you fall in love with Codes & new tech.
