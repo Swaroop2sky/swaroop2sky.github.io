@@ -48,15 +48,15 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
  ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/IMG_20210425_083142.jpg)
 
 ### Swaroop2sky on Socials
-Instagram [@swaroop2sky](https://www.instagram.com/swaroop2sky/)
 
-Telegram Channel [@swaroop2sky](https://t.me/swaroop2sky)
-
-Youtube [@swaroop2sky](https://www.youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
-
-GitHub [@S2Sofficial](https://github.com/S2Sofficial)
-
-Twitter [@swaroop2sky](https://mobile.twitter.com/swaroop2sky)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Swaroop2sky)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S2Sme)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroop2sky)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/Swaroop2sky)
+ [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Swaroop2sky)
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://Swaroop2sky.github.io)
+ [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/Swaroop2sky)
+ [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/swaroopyadav)
 
 # [Swaroop2sky Wikipedia](https://github.com/S2Sofficial/swaroop2sky/wiki)
 ![swaroop2sky-wiki](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/Wiki/Adobe_Post_20210619_1357060.3399142612728401.png)
