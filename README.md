@@ -1,10 +1,10 @@
-## Welcome to Swaroop2sky 
+## Welcome to Swaroop2sky 👋
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Swaroop2sky/swaroop2sky.github.io?style=flat&color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Swaroop2sky/swaroop2sky.github.io?color=green)
 ![GitHub](https://img.shields.io/github/license/Swaroop2sky/swaroop2sky.github.io?color=green)
 
-![Image](https://camo.githubusercontent.com/d8154c78b3a347615e997033b1c4a56ccabe6e611c814f5b152d8caee8065254/68747470733a2f2f7974332e67677068742e636f6d2f7974632f41415576776e6972466f6c683045646473466c6c764b65775a637267784d445530556976424773456c4471483d733930302d632d6b2d63307830306666666666662d6e6f2d726a)
+[![Awesome](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)
 
 The Official YouTube Channel which makes you fall in love with Codes & new tech.
 Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg) **Explore Swaroop2sky**
@@ -46,7 +46,7 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
 
 #### [Matplotlib-Pyplot Lectures](https://youtu.be/vrExFOrBWo8)
  ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/IMG_20210425_083142.jpg)
-
+---
 ### Swaroop2sky on Socials
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Swaroop2sky)
@@ -64,3 +64,4 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
 You can also use the [editor on GitHub](https://github.com/S2Sofficial/s2s.github.io/edit/main/README.md) to maintain and preview the content for my website in Markdown files.
 
 # Happy Coding :)
+---
