@@ -1,7 +1,7 @@
 ## Welcome to Swaroop2sky 👋
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Swaroop2sky/swaroop2sky.github.io?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/Swaroop2sky/swaroop2sky.github.io?color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Swaroop2sky/swaroop2sky.github.io?color=red)
 ![GitHub](https://img.shields.io/github/license/Swaroop2sky/swaroop2sky.github.io?color=green)
 
 [![Awesome](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)
