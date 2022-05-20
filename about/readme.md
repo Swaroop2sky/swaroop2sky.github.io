@@ -41,5 +41,6 @@ Please read the [contribution guidelines](https://github.com/Swaroop2sky/swaroop
   </a>
 </p>
 
+[![jekyll](https://jekyllrb.com/img/octojekyll.png)](https://swaroop2sky.github.io/about/)
+
 Made with ♥️ & GitHub Pages
-![jekyll](https://jekyllrb.com/img/octojekyll.png)
