@@ -1,0 +1,168 @@
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Get HTML Code of any Website – Telegraph</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="MobileOptimized" content="176"> 
+  <meta name="HandheldFriendly" content="True"> 
+  <meta name="robots" content="index, follow"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:title" content="Get HTML Code of any Website"> 
+  <meta property="og:description" content="Web scraping is the process of collecting and parsing raw data from the Web, and the Python community has come up with some pretty powerful web scraping tools.
+The Internet hosts perhaps the greatest source of information—and misinformation—on the planet. Many disciplines, such as data science, business intelligence, and investigative reporting, can benefit enormously from collecting and analyzing data from websites.
+In this tutorial, you’ll learn how to:
+Parse website data using string methods and regular…"> 
+  <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTR1EJ7dPRygc7B8eS7uQNBva35UmaGvR1w&amp;usqp=CAU"> 
+  <meta property="og:site_name" content="Telegraph"> 
+  <meta property="article:published_time" content="2022-05-16T08:24:35+0000"> 
+  <meta property="article:modified_time" content="2022-06-13T11:22:20+0000"> 
+  <meta property="article:author" content="Swaroop2sky"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Get HTML Code of any Website"> 
+  <meta name="twitter:description" content="Web scraping is the process of collecting and parsing raw data from the Web, and the Python community has come up with some pretty powerful web scraping tools.
+The Internet hosts perhaps the greatest source of information—and misinformation—on the planet. Many disciplines, such as data science, business intelligence, and investigative reporting, can benefit enormously from collecting and analyzing data from websites.
+In this tutorial, you’ll learn how to:
+Parse website data using string methods and regular…"> 
+  <meta name="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTR1EJ7dPRygc7B8eS7uQNBva35UmaGvR1w&amp;usqp=CAU"> 
+  <link rel="canonical" href="https://telegra.ph/Get-HTML-Code-of-any-Website-05-16"> 
+  <link rel="shortcut icon" href="/favicon.ico?1" type="image/x-icon"> 
+  <link rel="icon" type="image/png" href="/images/favicon.png?1" sizes="16x16"> 
+  <link rel="icon" type="image/png" href="/images/favicon_2x.png?1" sizes="32x32"> 
+  <link href="/css/quill.core.min.css" rel="stylesheet"> 
+  <link href="/css/core.min.css?46" rel="stylesheet"> 
+ </head> 
+ <body class="mobile"> 
+  <div class="tl_page_wrap"> 
+   <div class="tl_page"> 
+    <main class="tl_article"> 
+     <header class="tl_article_header" dir="auto"> 
+      <h1>Get HTML Code of any Website</h1> 
+      <address> <a rel="author" href="https://t.me/swaroop2sky" target="_blank">Swaroop2sky</a>
+       <!--
+           --><time datetime="2022-05-16T08:24:35+0000">May 16, 2022</time> </address> 
+     </header> 
+     <article id="_tl_editor" class="tl_article_content ql-container ql-disabled">
+      <div class="ql-editor" contenteditable="false">
+       <h1 dir="auto" data-placeholder="Title" data-label="Title">Get HTML Code of any Website</h1>
+       <address dir="auto" data-placeholder="Your name" data-label="Author"><a href="https://t.me/swaroop2sky" target="_blank">Swaroop2sky</a></address>
+       <figure contenteditable="false">
+        <div class="figure_wrapper">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTR1EJ7dPRygc7B8eS7uQNBva35UmaGvR1w&amp;usqp=CAU">
+        </div>
+        <span class="cursor_wrapper" contenteditable="true"></span>
+        <figcaption dir="auto" class="editable_text" data-placeholder="Caption (optional)"></figcaption>
+       </figure>
+       <p dir="auto"><strong>Web scraping</strong> is the process of collecting and parsing raw data from the Web, and the Python community has come up with some pretty powerful web scraping tools.</p>
+       <p dir="auto">The Internet hosts perhaps the greatest source of information—and misinformation—on the planet. Many disciplines, such as data science, business intelligence, and investigative reporting, can benefit enormously from collecting and analyzing data from websites.</p>
+       <p dir="auto"><strong>In this tutorial, you’ll learn how to:</strong></p>
+       <ul dir="auto">
+        <li>Parse website data using <strong>string methods</strong> and <strong>regular expressions</strong></li>
+        <li>Parse website data using an <strong>HTML parser</strong></li>
+        <li>Interact with <strong>forms</strong> and other website components</li>
+       </ul>
+       <h3 dir="auto" id="Scrape-and-Parse-Text-From-Websites">Scrape and Parse Text From Websites</h3>
+       <p dir="auto">Collecting data from websites using an automated process is known as web scraping. Some websites explicitly forbid users from scraping their data with automated tools like the ones you’ll create in this tutorial. Websites do this for two possible reasons:</p>
+       <ol dir="auto">
+        <li>The site has a good reason to protect its data. For instance, Google Maps doesn’t let you request too many results too quickly.</li>
+        <li>Making many repeated requests to a website’s server may use up bandwidth, slowing down the website for other users and potentially overloading the server such that the website stops responding entirely.</li>
+       </ol>
+       <blockquote dir="auto">
+        <strong>Important:</strong> Before using your Python skills for web scraping, you should always check your target website’s acceptable use policy to see if accessing the website with automated tools is a violation of its terms of use. Legally, web scraping against the wishes of a website is very much a gray area.
+       </blockquote>
+       <blockquote dir="auto">
+        <em>Please be aware that the following techniques </em>
+        <a href="https://en.wikipedia.org/wiki/Web_scraping#Legal_issues" target="_blank"><em>may be illegal</em></a>
+        <em> when used on websites that prohibit web scraping.</em>
+       </blockquote>
+       <p dir="auto">Let’s start by grabbing all the HTML code from a single web page. You’ll use a page on Swaroop2sky that’s been set up for use with this tutorial.</p>
+       <blockquote dir="auto">
+        from urllib.request import urlopen
+        <br class="inline">url = "https://swaroop2sky.github.io"
+        <br class="inline">page = urlopen(url)
+        <br class="inline">html_bytes = page.read()
+        <br class="inline">html = html_bytes.decode("utf-8")
+        <br class="inline">print(html)
+        <br class="inline">
+        <br class="inline">#this command is for just to remove program finished line in the last
+        <br class="inline">a=input()
+       </blockquote>
+       <h3 dir="auto" id="Extract-Text-From-HTML-With-String-Methods">Extract Text From HTML With String Methods</h3>
+       <p dir="auto">One way to extract information from a web page’s HTML is to use <a href="https://realpython.com/python-strings/#built-in-string-methods" target="_blank">string methods</a>. For instance, you can use <code>.find()</code> to search through the text of the HTML for the <code>&lt;title&gt;</code> tags and extract the title of the web page.</p>
+       <p dir="auto">Let’s extract the title of the web page you requested in the previous example. If you know the index of the first character of the title and the first character of the closing <code>&lt;/title&gt;</code> tag, then you can use a <a href="https://realpython.com/python-strings/#string-slicing" target="_blank">string slice</a> to extract the title.</p>
+       <p dir="auto">Since <code>.find()</code> returns the index of the first occurrence of a substring, you can get the index of the opening <code>&lt;title&gt;</code> tag by passing the string <code>"&lt;title&gt;"</code> to <code>.find()</code>:</p>
+       <blockquote dir="auto">
+        from urllib.request import urlopen
+        <br class="inline">url = "https://swaroop2sky.github.io"
+        <br class="inline">page = urlopen(url)
+        <br class="inline">html_bytes = page.read()
+        <br class="inline">html = html_bytes.decode("utf-8")
+        <br class="inline">print(html)
+        <br class="inline">title_index = html.find("&lt;title&gt;")
+        <br class="inline">title_index
+        <br class="inline">
+        <br class="inline">
+        <br class="inline">#this command is for just to remove program finished line in the last
+        <br class="inline">a=input()
+       </blockquote>
+       <p dir="auto"><br></p>
+       <p dir="auto">Join @Swaroop2sky for more such Amazing Contents for free!</p>
+      </div>
+      <div class="ql-clipboard" contenteditable="true" tabindex="-1"></div>
+      <div id="_tl_link_tooltip" class="tl_link_tooltip"></div>
+      <div id="_tl_tooltip" class="tl_tooltip"> 
+       <div class="buttons"> 
+        <span class="button_hover"></span> 
+        <span class="button_group">
+         <!--
+             --><button id="_bold_button"></button>
+         <!--
+             --><button id="_italic_button"></button>
+         <!--
+             --><button id="_link_button"></button>
+         <!--
+           --></span>
+        <!--
+           -->
+        <span class="button_group">
+         <!--
+             --><button id="_header_button"></button>
+         <!--
+             --><button id="_subheader_button"></button>
+         <!--
+             --><button id="_quote_button"></button>
+         <!--
+           --></span> 
+       </div> 
+       <div class="prompt"> 
+        <span class="close"></span> 
+        <div class="prompt_input_wrap">
+         <input type="url" class="prompt_input">
+        </div> 
+       </div> 
+      </div>
+      <div id="_tl_blocks" class="tl_blocks"> 
+       <div class="buttons"> 
+        <button id="_image_button"></button>
+        <!--
+           -->
+        <button id="_embed_button"></button> 
+       </div> 
+      </div>
+     </article> 
+     <aside class="tl_article_buttons"> 
+      <div class="account account_top"></div> 
+      <button id="_edit_button" class="button edit_button">Edit</button>
+      <!--
+         -->
+      <button id="_publish_button" class="button publish_button">Publish</button> 
+      <div class="account account_bottom"></div> 
+      <div id="_error_msg" class="error_msg"></div> 
+     </aside> 
+    </main> 
+   </div> 
+  </div> 
+  <div id="_tl_alerts" class="tl_alerts"></div> 
+ </body>
+</html>
