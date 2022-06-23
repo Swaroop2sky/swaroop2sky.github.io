@@ -60,7 +60,9 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/swaroopyadav)
 
 # [Swaroop2sky Wikipedia](https://github.com/S2Sofficial/swaroop2sky/wiki)
-![swaroop2sky-wiki](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/Wiki/Adobe_Post_20210619_1357060.3399142612728401.png)
+
+[![Swaroop2sky Wiki](https://user-images.githubusercontent.com/75106252/175248554-1e4772b5-f2d6-4022-91b6-3ffc7a9aef99.gif)](https://github.com/S2Sofficial/swaroop2sky/wiki)
+
 
 You can also use the [editor on GitHub](https://github.com/S2Sofficial/s2s.github.io/edit/main/README.md) to maintain and preview the content for my website in Markdown files.
 
