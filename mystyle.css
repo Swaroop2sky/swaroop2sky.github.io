@@ -63,7 +63,10 @@ h2,h3{
 p{
     font-family: 'Chakra Petch';
     color: white;
+    text-align: left;
     padding-left: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 footer{
     position: relative;
@@ -140,4 +143,9 @@ button:hover, a:hover {
 }
 .card p{
     padding: 0px;
+    margin: auto;
 }
+ul {
+  list-style-type: none;
+  text-align: left;
+ }
