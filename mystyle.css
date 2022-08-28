@@ -144,6 +144,7 @@ button:hover, a:hover {
 .card p{
     padding: 0px;
     margin: auto;
+    text-align: center;
 }
 ul {
   list-style-type: none;
